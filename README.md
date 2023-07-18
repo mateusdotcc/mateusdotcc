@@ -4,4 +4,4 @@ For more than 10+ years, I've been combining my design background and software d
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,html,css,js,react,nodejs,nextjs,jest,typescript,styledcomponents,tailwind,sass,mongodb,postman,pug,svg,figma,vercel&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,html,css,js,typescript,react,nodejs,nextjs,redux,jest,styledcomponents,tailwind,sass,mongodb,postman,pug,svg,figma,vercel,apollo,docker,firebase,git,graphql&perline=12)](https://skillicons.dev)
