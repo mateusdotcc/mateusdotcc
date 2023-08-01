@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-For more than 10+ years, I've been combining my design background and software development skills to create web and mobile applications that meet the needs and expectations. I have a passion for building software solutions that improve the company's website and enhance customer experiences, using a good UX on mobile devices.
+For more than 10+ years, I've been combining my design background and software development skills to create web and mobile applications that meet the needs and expectations. I have a passion for building software solutions that improve the company's product or services and enhance customer experiences.
 
 ## Skills
 
