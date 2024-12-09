@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-For more than 10+ years, I've been combining design and software development skills to create web and mobile applications that meet the needs and expectations. I have a passion for building software solutions that improve the company's product or services and enhance customer experiences.
+Front-end developer with over 10 years of experience, I've worked in several segments and products, adapting and meeting different needs.
+
+I have combined my passion for design and software development skills to create Web and Mobile solutions that improve products and services.
 
 ## I am learning
 [![I am learning](https://skillicons.dev/icons?i=swift,angular&perline=2)](https://skillicons.dev)
